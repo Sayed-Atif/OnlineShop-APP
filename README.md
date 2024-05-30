@@ -90,8 +90,8 @@ dotenv
 nodemon
 
 # Envoronmental Variables:
-PORT=5000
-MONGO_URI=YOUR_MONGO_URI
+PORT=5000 , 
+MONGO_URI=YOUR_MONGO_URI ,
 JWT_SECRET=YOUR_JWT_SECRET
 
 # Features:
