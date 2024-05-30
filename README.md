@@ -56,7 +56,7 @@ Here I put the wrong path for login and it is showing the error type and error p
 
 
 # Dependencies:
-- I used below npm dependencis for Backend:
+A - Backend:
 • express
 • mongoose
 •	bcryptjs
@@ -64,6 +64,12 @@ Here I put the wrong path for login and it is showing the error type and error p
 • cookie-parser
 • jsonwebtoken
 • cors
+
+# devDependencies:
+A - Backend:
+concurrently
+dotenv
+nodemon
 
 
 
