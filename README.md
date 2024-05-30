@@ -23,8 +23,9 @@ Welcome to Atif OnlineShop, a Full Stack Responsive Ecommerce MERN Application d
 
 
 
-# JSON WEB TOKEN (JWT) Creation While User Login using POSTMANT:
+# JWT Token Creation:
 
+Here I login into system using postman and when I sent the request for login it authomaticall generate JWT token upon successful login.
 ![image](https://github.com/Sayed-Atif/Online-Shop-App/assets/160655894/b3df793e-9522-417a-b446-33f97a912df4)
 
 
