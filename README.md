@@ -1,5 +1,5 @@
 # Atif OnlineShop: 
-Welcome to Atif OnlineShop, a Full Stack Responsive Ecommerce MERN Application designed to deliver a seamless shopping experience. This project features both frontend and backend components, ensuring a robust and secure environment for users.
+Welcome to Atif OnlineShop, a Full Stack Ecommerce MERN Application which is completely responsive designed to deliver a seamless shopping experience. This project features both frontend and backend components, ensuring a robust and secure environment for users.
 
 
 # Single Product View:
@@ -12,7 +12,7 @@ Welcome to Atif OnlineShop, a Full Stack Responsive Ecommerce MERN Application d
 ![image](https://github.com/Sayed-Atif/Online-Shop-App/assets/160655894/0fe46654-95ff-4f57-b26e-228be20952ed)
 
 
-# Responsive Page:
+# Responsive Page View:
 
 ![image](https://github.com/Sayed-Atif/Online-Shop-App/assets/160655894/eff473ce-fcaf-4d78-961a-24c1d7667684)
 
@@ -53,6 +53,19 @@ Here I put the wrong path for login and it is showing the error type and error p
 •	JWT (JSON Web Tokens): For authentication and authorization.
 •	Bcrypt: A library for hashing passwords.
 •	Backend Authentication: Secure user authentication and authorization mechanisms.
+
+
+# Dependencies:
+- I used below npm dependencis for Backend:
+• express
+• mongoose
+•	bcryptjs
+• body-parser
+• cookie-parser
+• jsonwebtoken
+• cors
+
+
 
 # Features:
 Although I couldn't implement all the features due to time constraints, the following are in place:
