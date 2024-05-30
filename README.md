@@ -30,6 +30,12 @@ Technologies Used:
 ![image](https://github.com/Sayed-Atif/Online-Shop-App/assets/160655894/b3df793e-9522-417a-b446-33f97a912df4)
 
 
+# Error Handling:
+
+Here I put the wrong path for login and it is showing the error type and error place as well exactly:
+![image](https://github.com/Sayed-Atif/OnlineShop-APP/assets/160655894/e12f8b72-d2bb-45b6-b081-5e519825d3c8)
+
+
 
 
 # Technologies Used:
