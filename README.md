@@ -54,9 +54,8 @@ Here I put the wrong path for login and it is showing the error type and error p
 •	Bcrypt: A library for hashing passwords.
 •	Backend Authentication: Secure user authentication and authorization mechanisms.
 
-
 # Dependencies:
-A - Backend:
+# A - Backend:
 • express
 • mongoose
 •	bcryptjs
@@ -64,13 +63,31 @@ A - Backend:
 • cookie-parser
 • jsonwebtoken
 • cors
+# B - Frontend:
+@fortawesome/fontawesome-svg-core
+@fortawesome/free-brands-svg-icons
+@fortawesome/react-fontawesome
+@testing-library/jest-dom
+@testing-library/react
+@testing-library/user-event
+axios
+bootstrap
+react
+react-bootstrap
+react-dom
+react-icons
+react-redux
+@reduxjs/toolkit
+react-router-bootstrap
+react-router-dom
+react-scripts
+web-vitals
 
 # devDependencies:
-A - Backend:
+Backend Only:
 concurrently
 dotenv
 nodemon
-
 
 
 # Features:
