@@ -1,8 +1,6 @@
 # Atif OnlineShop: 
 Welcome to Atif OnlineShop, a Full Stack Responsive Ecommerce MERN Application designed to deliver a seamless shopping experience. This project features both frontend and backend components, ensuring a robust and secure environment for users.
-<<<<<<< HEAD
-Technologies Used:
-=======
+
 
 # Single Product View:
 
@@ -37,9 +35,7 @@ Here I put the wrong path for login and it is showing the error type and error p
 
 
 
-
 # Technologies Used:
->>>>>>> 33c44c8d0600aabb4da0ce76f562f64a1990e55f
 
 # Frontend:
 •	React: A JavaScript library for building user interfaces.
@@ -68,7 +64,7 @@ o	$ npm run data:import – Imports all data models to the database.
 o	$ npm run data:destroy – Deletes all data models from the database.
 
 # Planned Features:
-I aim to develop a comprehensive ecommerce application with the following features:
+I am to develop a comprehensive ecommerce application with the following features:
 •	Full-featured shopping cart
 •	Product reviews and ratings
 •	Top products carousel
